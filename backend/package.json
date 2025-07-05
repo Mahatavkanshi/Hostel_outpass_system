@@ -8,9 +8,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "sejalsaini",
   "license": "ISC",
-  "description": "",
+  "description": "hostel outpass",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
