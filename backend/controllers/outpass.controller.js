@@ -1,5 +1,6 @@
 const Outpass = require('../models/outpass.model');
 
+
 exports.submitOutpass = async (req, res) => {
   const userId = req.user.userId;
   const {
